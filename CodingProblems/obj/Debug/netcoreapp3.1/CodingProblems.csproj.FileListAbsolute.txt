@@ -9,3 +9,14 @@ C:\Users\Adam\source\repos\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems
 C:\Users\Adam\source\repos\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems.pdb
 C:\Users\Adam\source\repos\CodingProblems\obj\Debug\netcoreapp3.1\CodingProblems.dll
 C:\Users\Adam\source\repos\CodingProblems\obj\Debug\netcoreapp3.1\CodingProblems.pdb
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems.exe
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems.deps.json
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems.runtimeconfig.json
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems.dll
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\bin\Debug\netcoreapp3.1\CodingProblems.pdb
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\obj\Debug\netcoreapp3.1\CodingProblems.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\obj\Debug\netcoreapp3.1\CodingProblems.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\obj\Debug\netcoreapp3.1\CodingProblems.AssemblyInfo.cs
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\obj\Debug\netcoreapp3.1\CodingProblems.dll
+C:\Users\Adam\Desktop\Projects\C#Problems\CodingProblems\obj\Debug\netcoreapp3.1\CodingProblems.pdb

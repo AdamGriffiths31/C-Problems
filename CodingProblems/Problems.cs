@@ -4,12 +4,11 @@ using System.Linq;
 
 namespace CodingProblems
 {
-    class Program
+    public class Problems
     {
         static void Main(string[] args)
         {
-            Program program = new Program();
-
+            Problems program = new Problems();
             program.Menu();
             Console.ReadKey();
         }
@@ -20,7 +19,8 @@ namespace CodingProblems
             switch (str)
             {
                 case "1":
-                    ReverseString("Hello world");
+                    var result=ReverseString("Hello world");
+                    Console.WriteLine(result);
                     break;
                 case "2":
                     RemoveDuplicate("Hello world");
@@ -44,14 +44,14 @@ namespace CodingProblems
             }
             Menu();
         }
-        void ReverseString(string input)
+        public string ReverseString(string input)
         {
             string reversedString = string.Empty;
             for (int i = input.Length - 1; i > -1; i--)
             {
                 reversedString += input[i];
             }
-            Console.WriteLine(reversedString);
+            return reversedString;
         }
         void RemoveDuplicate(string input)
         {
